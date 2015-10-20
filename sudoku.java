@@ -134,7 +134,7 @@ public class Sudoku{
 	
 	
 	
-	//backtracking shit. 
+	//backtracking Jargon. 
 	
 	
 	
